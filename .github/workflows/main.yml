@@ -17,4 +17,4 @@ jobs:
         build_configuration: production
         base_href: https://Elainebritodev.github.io/soulProjeto/
         deploy_branch: gh-pages
-        angular_dist_build_folder: dist/soulProjeto
+        angular_dist_build_folder: dist/soul-projeto
